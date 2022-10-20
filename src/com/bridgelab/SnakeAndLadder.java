@@ -23,6 +23,7 @@ public class SnakeAndLadder {
                     position += die;
                     if (position > 100){
                         position = 100;
+                        System.out.println("Count of the dice was played to win the game :: "+i);
                     }
                     break;
                 default:
