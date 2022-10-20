@@ -2,7 +2,7 @@ package com.bridgelab;
 
 public class SnakeAndLadder {
     public static void main(String[] args) {
-        //UC5 - Ensure the Player gets to exact winning position 100.
+        //UC6 - Report the number of times the dice was played to win the game and also the position after every die role.
         System.out.println("Welcome to the Snake and Ladder Program by using Java");
 
         int position = 0;
